@@ -1,0 +1,2 @@
+Adding to check between staging and working area 
+Modifying to check if this goes into the working area again
