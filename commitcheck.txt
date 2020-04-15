@@ -1,1 +1,2 @@
 This files is to check if the committed file returns back to the working area?
+Modifying the file to check the result
