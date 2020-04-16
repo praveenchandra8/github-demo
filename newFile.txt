@@ -1,2 +1,2 @@
-Just Checking 
-Added from new branch
+Just Checking "Master ka change dekhte hain conflict aega ki nahi merge time"
+Added from new branch "Master ka change"
