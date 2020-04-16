@@ -1,2 +1,2 @@
-Just Checking 
-Added from new branch
+Just Checking "Conflict demo"
+Added from new branch "Conflict checking"
